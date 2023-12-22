@@ -2,13 +2,15 @@
 Developed a YouTubeSummarizer using Hugging Face transformer for efficient text summarization. Simplifies user experience with a Chrome extension, enabling one-click video transcript summarization.
 
 
-PLEASE MAKE SURE THE BELOW REQUIREMENTS:
-**Requirements**
-The following python modules must be installed to run the API
-""""  #USE PIP COMMAND TO INSTALL """
-flask
-youtube-transcript-api
-transformers
+******Requirements******
+
+Ensure the following Python modules are installed to run the API. Use the pip command for installation:
+pip install flask
+pip install youtube-transcript-api
+pip install transformers
+
+ * Make sure to execute these commands in your Python environment to install the necessary dependencies for the project.
+
 
 
 Project Title:

@@ -2,14 +2,7 @@
 Developed a YouTubeSummarizer using Hugging Face transformer for efficient text summarization. Simplifies user experience with a Chrome extension, enabling one-click video transcript summarization.
 
 
-******Requirements******
 
-Ensure the following Python modules are installed to run the API. Use the pip command for installation:
-pip install flask
-pip install youtube-transcript-api
-pip install transformers
-
- * Make sure to execute these commands in your Python environment to install the necessary dependencies for the project.
 
 
 
@@ -30,11 +23,24 @@ Chrome Extension: Simplifies the summarization process by providing users with a
 
 
 How to Use:
+
 Installation:
 
 Clone the repository to your local machine.
 Load the Chrome extension by navigating to chrome://extensions/ and selecting "Load unpacked."
 Choose the project directory to load the extension.
+
+******Requirements******
+
+Ensure the following Python modules are installed to run the API. Use the pip command for installation:
+
+pip install flask
+
+pip install youtube-transcript-api
+
+pip install transformers
+
+ * Make sure to execute these commands in your Python environment to install the necessary dependencies for the project.
 
 
 Usage:
@@ -51,9 +57,11 @@ Include additional language support for broader video content coverage.
 Implement advanced summarization techniques for improved results.
 
 
-Contributions:
-Contributions and feedback are welcome! Feel free to submit issues or pull requests.
 
 
 Conclusion:
 YouTubeSummarizer-WebExtension-NLP offers a user-friendly solution for extracting concise summaries from YouTube video transcripts. By combining the power of NLP with a Chrome extension, the project provides a seamless experience for users seeking quick and efficient video content summaries.
+
+**
+Contributions:
+Contributions and feedback are welcome! Feel free to submit issues or pull requests.**
